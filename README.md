@@ -13,4 +13,3 @@
 # Time
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |
-| :---: | :---: |
